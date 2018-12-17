@@ -1,4 +1,4 @@
-# omit-deep-lodash
+# omit-deep-by-values
 > Omit object keys by values recursively
 
 Sometimes we need to omit things from an object recursively by a particular value or list of values [omit-deep](https://github.com/janaMabbu/OmitDeepByValues) did this
