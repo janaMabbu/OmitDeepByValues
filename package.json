@@ -1,7 +1,7 @@
 {
   "name": "omit-deep-by-values",
   "description": "Omit object keys by values recursively with lodash as only dependency.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "homepage": "https://github.com/janaMabbu/OmitDeepByValues",
   "author": "Jana Mabbu (https://github.com/janaMabbu)",
