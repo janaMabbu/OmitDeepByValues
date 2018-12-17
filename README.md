@@ -17,7 +17,7 @@ with constructors.
 Install with [npm](https://www.npmjs.com/)
 
 ```sh
-$ npm i "omit-deep-by-values --save
+$ npm i omit-deep-by-values --save
 ```
 
 ## Usage
